@@ -18,9 +18,9 @@ DIY RC transmitter for multipurpose usage.
 
 ## Hardware:
 ### Circuit
-![20201203_030242](https://user-images.githubusercontent.com/61725679/100912815-4d740800-3514-11eb-9b83-582f35fccfe2.jpg)
+![20201203_030242](https://user-images.githubusercontent.com/61725679/100913005-89a76880-3514-11eb-8ec9-d144e0e60cbb.jpg)
 
-Schematic is uploaded.
+The schematic can be found on 'Circuit' folder.
 
 
 
