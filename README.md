@@ -1,8 +1,10 @@
 # Pata-Transmitter
-### DIY RC transmitter for multipurpose usage.
+DIY RC transmitter for multipurpose usage.
 
-------------------------------------------
+
+
 ## Feature:
+-----------------------------------------
 - 5 CH (4 analog, 1 digital)
 - Various mixing features
   - Reverse mixing
