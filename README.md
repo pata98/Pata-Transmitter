@@ -1,4 +1,4 @@
-# Pata-Transmitter
+# Pata Transmitter
 DIY RC transmitter for multipurpose usage.
 
 
