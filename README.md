@@ -19,6 +19,5 @@ DIY RC transmitter for multipurpose usage.
 ## Hardware:
 
 ### Circuit:
-![Alt text](C:\Users\yoopata\Dropbox\jiho\2. programming\Embedded\AVR\atmega8\RC Transmitter\Schematic_transmitter IV_2020-12-03_02-50-09/Main_board.jpg)
 
 ### Case:
