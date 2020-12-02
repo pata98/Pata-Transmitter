@@ -5,7 +5,7 @@ Pata's RC Transmitter
 
 
 Feature:
-- 5CH (4 analog, 1 digital)
+- 5 CH (4 analog, 1 digital)
 - Various mixing features
   - Reverse mixing
   - Elevon mixing
