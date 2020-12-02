@@ -4,7 +4,7 @@ RC Transmitter
 Pata's RC Transmitter
 
 
-##Feature:
+## Feature:
 - 5 CH (4 analog, 1 digital)
 - Various mixing features
   - Reverse mixing
