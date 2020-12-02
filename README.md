@@ -1,9 +1,7 @@
 # Pata-Transmitter
-RC Transmitter
+DIY RC transmitter for multipurpose usage.
 
-Pata's RC Transmitter
-
-
+------------------------------------------
 ## Feature:
 - 5 CH (4 analog, 1 digital)
 - Various mixing features
@@ -16,3 +14,5 @@ Pata's RC Transmitter
 - Battery monitoring & low battery alarm
 - 1602 CLCD display
 
+
+## 
