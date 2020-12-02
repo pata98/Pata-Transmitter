@@ -4,7 +4,6 @@ DIY RC transmitter for multipurpose usage.
 
 
 ## Feature:
------------------------------------------
 - 5 CH (4 analog, 1 digital)
 - Various mixing features
   - Reverse mixing
@@ -17,4 +16,9 @@ DIY RC transmitter for multipurpose usage.
 - 1602 CLCD display
 
 
-## 
+## Hardware:
+
+### Circuit:
+![Alt text](C:\Users\yoopata\Dropbox\jiho\2. programming\Embedded\AVR\atmega8\RC Transmitter\Schematic_transmitter IV_2020-12-03_02-50-09/Main_board.jpg)
+
+### Case:
