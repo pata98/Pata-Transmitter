@@ -17,9 +17,11 @@ DIY RC transmitter for multipurpose usage.
 
 
 ## Hardware:
-### Schematic
-
 ### Circuit
+![20201203_030242](https://user-images.githubusercontent.com/61725679/100912815-4d740800-3514-11eb-9b83-582f35fccfe2.jpg)
+
+Schematic is uploaded.
+
 
 
 ### Case:
