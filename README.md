@@ -14,7 +14,7 @@ DIY RC transmitter for multipurpose usage.
 - Digital real-time trim
 - Battery monitoring & low battery alarm
 - 1602 CLCD display
-- Selectable output - PPM / NRF
+- Selectable output - PPM / NRF24l01
 
    
    
