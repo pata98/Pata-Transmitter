@@ -1,5 +1,5 @@
 # Pata Transmitter
-DIY RC transmitter for multipurpose usage.
+AtMega8 based DIY RC transmitter for multipurpose usage.
 
 ### Currently under development
 
